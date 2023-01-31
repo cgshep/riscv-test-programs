@@ -1,2 +1,2 @@
 # riscv-test-programs
-Some test programs for program reconstruction from power traces
+Examples of converting C programs to RISC-V assembly (RV32I, ILP32) 
